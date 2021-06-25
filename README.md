@@ -1,8 +1,6 @@
 # ChinaMisakaNetwork Git Commit 规范
 
-```
-Git Commit Message 应该清晰明了，要用精简的语言说明本次提交的目的，其主要作用是为了后续的搜索、版本的回滚、合并冲突的追溯等操作。
-```
+> Git Commit Message 应该清晰明了，要用精简的语言说明本次提交的目的，其主要作用是为了后续的搜索、版本的回滚、合并冲突的追溯等操作。
 
 ## commit message 格式
 
